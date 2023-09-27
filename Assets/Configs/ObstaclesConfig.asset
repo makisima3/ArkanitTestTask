@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd4bd67ead74ca899832f8020dd4339, type: 3}
+  m_Name: ObstaclesConfig
+  m_EditorClassIdentifier: 
+  obstacles:
+  - {fileID: 6560560562582594596, guid: 157b74f8fdc5f5a40a2f58eac744ac09, type: 3}
+  - {fileID: -4801718239103047675, guid: e91a0bd364834a14aa99c4b23cbc78dc, type: 3}
+  - {fileID: 3630604287069504871, guid: b939b117444ad9444b284c5702ad9543, type: 3}
+  - {fileID: 907863327606921827, guid: b14e40de320712f4e9e540d9dbf70193, type: 3}
+  - {fileID: 2098564828782632551, guid: 0c272bb53e672f148834ddfdb3ce7d4d, type: 3}
+  - {fileID: -3956665106845152452, guid: 561f9e85962c84d41b2fa0ecbe194171, type: 3}
+  maxObstacleOnScreen: 3
+  spawnRate: 1
